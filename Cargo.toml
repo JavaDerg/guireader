@@ -1,0 +1,9 @@
+[package]
+name = "guireader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tts = "0.20.3"
+eframe = "0.16.0"
+egui = "0.16.1"
